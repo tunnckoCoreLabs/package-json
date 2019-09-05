@@ -22,7 +22,7 @@
     "parse-package-name": "^0.1.0"
   },
   "devDependencies": {
-    "@tunnckocore/config": "^1.0.2",
+    "@tunnckocore/config": "^5.0.0",
     "asia": "^0.19.7"
   },
   "files": [
